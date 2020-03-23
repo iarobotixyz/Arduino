@@ -1,0 +1,5 @@
+Sensor IMU MPU-6050
+
+para Arduino UNO
+
+https://iarobotixyz.blogspot.com/p/imu-mpu-6050.html
