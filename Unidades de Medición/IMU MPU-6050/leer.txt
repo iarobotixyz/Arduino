@@ -1,4 +1,0 @@
-iarobotixyz
-
-El diagrama electronico se encuentra en esta direccion:
-https://iarobotixyz.blogspot.com/p/imu-mpu-6050.html
