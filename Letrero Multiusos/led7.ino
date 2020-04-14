@@ -1,6 +1,6 @@
 ///////IAROBOTIXYZ/////////
 /////YOUTUBE///////////////
-/////BLOG//////////////////
+/////BLOG https://iarobotixyz.blogspot.com/2020/04/letrero-multiusos-para-arduino-con.html//////////////////
 //////GITHUB//////////////
 
 //NOTA POSIBLE QUEMA DE INTEGRADOS AL MOVER EL CODIGO
