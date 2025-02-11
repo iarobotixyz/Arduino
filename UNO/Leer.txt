@@ -1,0 +1,17 @@
+Carga el programa en el Arduino UNO:
+
+Conecta tu Arduino UNO a tu computadora mediante un cable USB.
+
+Abre el software Arduino IDE en tu computadora.
+
+Copia y pega el código anterior en el Arduino IDE.
+
+Selecciona el tipo de placa Arduino UNO en el menú "Herramientas" > "Tipo de placa".
+
+Selecciona el puerto COM al que está conectado tu Arduino UNO en el menú "Herramientas" > "Puerto".
+
+Haz clic en el icono de "Subir" (una flecha hacia arriba) en la parte superior del Arduino IDE para cargar el programa en el Arduino.
+
+https://iarobotixyz.blogspot.com/2023/09/blink-de-arduino-uno.html
+
+https://roboticaxyz.com/
