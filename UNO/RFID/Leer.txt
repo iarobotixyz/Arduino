@@ -1,0 +1,10 @@
+
+Los módulos RFID (identificación por radiofrecuencia) son dispositivos electrónicos que permiten la comunicación inalámbrica y la identificación de objetos mediante ondas de radio. 
+
+Estos módulos son ampliamente utilizados en una variedad de aplicaciones, desde el control de acceso y la gestión de inventario hasta el seguimiento de activos y la identificación de mascotas.
+
+
+https://iarobotxyz.blogspot.com/2024/09/tipos-de-modulos-rfid-para-arduino.html
+
+
+https://roboticaxyz.com/
